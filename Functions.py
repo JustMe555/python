@@ -70,3 +70,4 @@ def main():
     elif a==10:
         num10()
 if __name__ == '__main__':main()
+input('press Enter to exit')
